@@ -1,4 +1,6 @@
-Terminus-Veil - A Python Roguelike by Nullsec0x
+# Terminus Veil - A Python Roguelike by Nullsec0x
+
+![banner](./assets/banner.png)
 
 A turn-based roguelike game built with Python and Textualize, featuring procedural dungeon generation, combat, inventory management, progressive difficulty, and beautiful ASCII art visuals.
 
